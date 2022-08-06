@@ -16,7 +16,3 @@ class Place(BaseModel):
     latitude = 0.0
     longitude = 0.0
     amenity_ids = []
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Term
